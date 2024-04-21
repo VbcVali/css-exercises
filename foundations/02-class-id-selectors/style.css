@@ -1,0 +1,19 @@
+.paragraph {
+    color: black;
+    background-color: #FFB6C1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.paragraph.cooler {
+    font-size: 24px;
+}
+#oneid {
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+}
+#anotherid {
+    color: black;
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
